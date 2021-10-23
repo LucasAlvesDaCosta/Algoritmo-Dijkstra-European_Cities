@@ -12,3 +12,7 @@ possuem pesos não negativo. As distancias entre as vértice(cidades) são os
 pesos das arestas e através desses pesos os possíveis caminhos podem ser calculados.
 
 ### Antes de Copiar/Fork deixe uma estrela.
+
+<div>
+<a href="https://github.com/LucasAlvesDaCosta/Algoritmo-Dijkstra-European_Cities/blob/main/Trabalho_02%20Estrutura%20de%20dados%20II_Algoritmo%20de%20Dijkstra_Lucas%20-Lizandra.pdf">Link para PDF do projeto</a>
+</div>
